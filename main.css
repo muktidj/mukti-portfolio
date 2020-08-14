@@ -1,0 +1,45 @@
+html {
+    position: relative;
+}
+
+body {
+        box-sizing: content-box;
+}
+
+hr {
+width: 250px;
+border: 4px solid #eee;
+}
+
+.navigasi {
+    background-color: rgb(121,82,179) !important;
+}
+/* jumbtron */
+.jumbotron {
+    background-image: url(img/code.jfif);
+    background-attachment: fixed;
+}
+.fas .fas-star {
+    background-color: yellow !important;
+}
+/* jumbtron container*/
+.jumbotron .container img {
+    width: 250px;
+    border: 1px solid black;
+}
+
+.bio {
+    text-size-adjust: 80px !important;
+}
+
+/* project */
+.portfolio {
+    background-color: #eee;
+    height: 400px;
+}
+
+/* footer */
+footer {
+    padding-top: 10px;
+    background-color: rgb(121,82,179) !important;
+}
